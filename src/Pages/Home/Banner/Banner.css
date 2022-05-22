@@ -1,0 +1,19 @@
+.top-banner{
+    height: 100vh;
+    width: 100%;
+    background-image: url(../../../images/banner/banner.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.banner-text1{
+padding-top: 150px;
+padding-bottom: 30px;
+font-size: 24px;
+color: rgb(112, 148, 103);
+}
+.banner-text2{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(98, 99, 148);
+}
+

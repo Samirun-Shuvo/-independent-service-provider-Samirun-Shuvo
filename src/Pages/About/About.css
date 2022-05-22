@@ -1,0 +1,14 @@
+.about{
+    height: auto;
+}
+.about-content{
+    padding-top: 100px;
+    font-size: 28px;
+    color: rgb(42, 36, 30);
+}
+.about-img{
+    padding-top: 50px;
+}
+.about-text{
+    color: rgb(217, 177, 177);
+}
