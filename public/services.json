@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Business Law",
+        "price": "300",
+        "description": "Business law is a section of code that is involved in protecting liberties and rights, maintaining orders, resolving disputes, and establishing standards for the business concerns and their dealings with government agencies and individuals.",
+        "img": "https://i.ibb.co/tMWjJV5/service3.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Civil Law",
+        "price": "100",
+        "description": "Civil law systems, also called continental or Romano-Germanic legal systems, are found on all continents and cover about 60% of the world. They are based on concepts, categories, and rules derived from Roman law, with some influence of canon law,",
+        "img": "https://i.ibb.co/M7SBs0X/service4.webp"
+    },
+    {
+        "id": 3,
+        "name": "Criminal Law",
+        "price": "150",
+        "description": "Criminal law is only one of the devices by which organized societies protect the security of individual interests and ensure the survival of the group. There are, in addition, the standards of conduct instilled by family, school, and religion.",
+        "img": "https://i.ibb.co/VY8K8Xz/service5.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Education Law",
+        "price": "180",
+        "description": "Education law is the legal discipline covering all issues pertaining to schools, from kindergarten through higher education. Historically, attorneys practicing education law have worked toward expanding access to a high-quality education for all children.",
+        "img": "https://i.ibb.co/VtTLbHJ/service6.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Woman Law",
+        "price": "100",
+        "description": "There is no doubt that we are in the midst of a great revolution in the history of women. The evidence is everywhere; the voice of women is increasingly heard in Parliament, courts and in the streets. While women in the West had to fight for over a century.",
+        "img": "https://i.ibb.co/7j1TJ0p/service1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Real Estate law",
+        "price": "300",
+        "description": "The simple legal definition of real estate is land and anything on it, such as buildings or natural resources. Hence, it is clear that Real Estate is not the personal assets (e.g. furniture, fixtures etc.). Real Estate can be either residential or commercial in nature.",
+        "img": "https://i.ibb.co/6Fj45Wb/service2.jpg"
+    }
+]
