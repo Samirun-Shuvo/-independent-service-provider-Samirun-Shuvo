@@ -1,6 +1,6 @@
 # Project name
 
-your-lawyers-lodat
+your-lawyers-today
 
 ## thinking about from
 
